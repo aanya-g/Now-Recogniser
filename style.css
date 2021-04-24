@@ -1,0 +1,31 @@
+.heading{
+    width:100%;
+    font-size:30px;
+}
+.ident{
+    background-color: white;
+    color:black;
+    font-size:25px;
+    float: none;
+}
+.button{
+    font-size:20px;
+}
+.ob{
+    font-size:15px;
+}
+.copy_right_footer{
+    position:fixed;
+    background-color: black;
+    color:white;
+    font-family: 'Lobster', cursive;
+    font-size:30px;
+    bottom:0px;
+    width:1550px;
+    text-align: center;
+    text-shadow: -2px 2px 5px cyan;
+}
+canvas{
+    border: 2px solid black;
+    margin-top: 155px;
+}
